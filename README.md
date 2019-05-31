@@ -21,9 +21,9 @@ Give your picture a description, add "content" param
 ```
 https://pushbot.cat/api/push/img/{your_key}?url=PIC_NET_URL&content=PIC_DESCRIPTION
 ```
-More API usage can be found at [our website](https://pushbot.cat/documentation)
+More API usage can be found at [Pushbot.cat](https://pushbot.cat/documentation)
 
-#### All API support GET and POST, response
+**GET** and **POST** requests are supported to send data to the API server, response
 
 success:
 ```
