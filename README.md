@@ -23,7 +23,7 @@ https://pushbot.cat/api/push/img/{your_key}?url=PIC_NET_URL&content=PIC_DESCRIPT
 ```
 More API usage can be found at [our website](https://pushbot.cat/documentation)
 
-#### All API support GET and POST, it will return
+#### All API support GET and POST, response
 
 success:
 ```
