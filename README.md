@@ -4,7 +4,7 @@
 2. Automatic get PushKey and start push message by our API.
 
 ### API
-1. Push text message
+#### Push text message
 ```
 https://pushbot.cat/api/push/text/{your_key}?text=YOUR_TEXT
 ```
@@ -13,7 +13,7 @@ To support markdown message or push message longer than 256 character, add "cont
 https://pushbot.cat/api/push/text/{your_key}?text=TITLE&content=YOUR_TEXT
 ```
 
-2. Push picture
+#### Push picture
 ```
 https://pushbot.cat/api/push/img/{your_key}?url=PIC_NET_URL
 ```
@@ -23,7 +23,7 @@ https://pushbot.cat/api/push/img/{your_key}?url=PIC_NET_URL&content=PIC_DESCRIPT
 ```
 More API usage can be found at [our website](https://pushbot.cat/documentation)
 
-API will return message when you use it
+#### All API support GET and POST, it will return
 
 success:
 ```
