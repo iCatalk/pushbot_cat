@@ -17,7 +17,7 @@ https://pushbot.cat/api/push/text/{your_key}?text=TITLE&content=YOUR_TEXT
 ```
 https://pushbot.cat/api/push/img/{your_key}?url=PIC_NET_URL
 ```
-**"url" param limit 256 characters*Z*
+**"url" param limit 256 characters**
 
 Give your picture a description, add "content" param (**limit 256 characters**)
 ```
